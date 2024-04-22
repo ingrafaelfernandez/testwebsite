@@ -1,0 +1,15 @@
+
+.hover-1 {
+    line-height: 1.2em;
+    color: #0000;
+    text-shadow: 
+      0 0 #000, 
+      0 1.9em #1095c1;
+    overflow: hidden;
+    transition: .3s;
+  }
+  .hover-1:hover {
+    text-shadow: 
+      0 -1.2em #000, 
+      0 0 #1095c1;
+  } 
